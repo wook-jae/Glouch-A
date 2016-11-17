@@ -104,11 +104,36 @@ public class ConsumerActivity extends Activity {
                     String str = "";
                     i++;
                     if(i == 1) {
-                        str = "종설 1등";
+                        str = "1";
+                    } else if(i == 2) {
+                        str = "2";
+                    } else if(i == 3) {
+                        str = "3";
+                    } else if(i == 4) {
+                        str = "4";
+                    } else if(i == 5) {
+                        str = "5";
+                    } else if(i == 6) {
+                        str = "6";
+                    } else if(i == 7) {
+                        str = "7";
+                    } else if(i == 8) {
+                        str = "8";
+                    } else if(i == 9) {
+                        str = "9";
+                    } else if(i == 10) {
+                        str = "10";
+                    } else if(i == 11) {
+                        str = "11";
+                    } else if(i == 12) {
+                        str = "12";
+                    } else if(i == 13) {
+                        str = "13";
                     } else {
-                        str = "종설 2등";
+                        str = "14";
                         i = 0;
                     }
+
                     if (mConsumerService.sendData(str)) {
                     } else {
                         Toast.makeText(getApplicationContext(), R.string.ConnectionAlreadyDisconnected, Toast.LENGTH_LONG).show();
