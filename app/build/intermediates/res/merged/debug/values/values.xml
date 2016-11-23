@@ -217,7 +217,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Glouch</string>
-    <string name="buttonConnect">Connect</string>
+    <string name="buttonConnect">GearConnect</string>
     <string name="buttonDisconnect">Disconnect</string>
     <string name="buttonSend">Send</string>
     <string name="hello_world">Hello Accessory!!!!</string>

@@ -2267,14 +2267,7 @@
                     "endOffset": 29078
                 },
                 "from": {
-                    "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 43,
-                        "endOffset": 98
-                    }
+                    "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -2282,20 +2275,27 @@
                     "startLine": 219,
                     "startColumn": 4,
                     "startOffset": 29083,
-                    "endColumn": 49,
-                    "endOffset": 29128
+                    "endColumn": 53,
+                    "endOffset": 29132
                 },
                 "from": {
-                    "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 53,
+                        "endOffset": 803
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 29133,
+                    "startOffset": 29137,
                     "endColumn": 55,
-                    "endOffset": 29184
+                    "endOffset": 29188
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml"
@@ -2305,9 +2305,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 29189,
+                    "startOffset": 29193,
                     "endColumn": 43,
-                    "endOffset": 29228
+                    "endOffset": 29232
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml"
@@ -2317,9 +2317,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 29233,
+                    "startOffset": 29237,
                     "endColumn": 59,
-                    "endOffset": 29288
+                    "endOffset": 29292
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\strings.xml"
@@ -2329,9 +2329,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 29293,
+                    "startOffset": 29297,
                     "endColumn": 70,
-                    "endOffset": 29359
+                    "endOffset": 29363
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2341,9 +2341,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 29364,
+                    "startOffset": 29368,
                     "endColumn": 77,
-                    "endOffset": 29437
+                    "endOffset": 29441
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2353,9 +2353,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 29442,
+                    "startOffset": 29446,
                     "endColumn": 89,
-                    "endOffset": 29527
+                    "endOffset": 29531
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2365,9 +2365,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 29532,
+                    "startOffset": 29536,
                     "endColumn": 87,
-                    "endOffset": 29615
+                    "endOffset": 29619
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2377,9 +2377,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 29620,
+                    "startOffset": 29624,
                     "endColumn": 95,
-                    "endOffset": 29711
+                    "endOffset": 29715
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2389,10 +2389,10 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 29716,
+                    "startOffset": 29720,
                     "endLine": 233,
                     "endColumn": 12,
-                    "endOffset": 30030
+                    "endOffset": 30034
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\src\\main\\res\\values\\styles.xml"
@@ -2402,10 +2402,10 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 30035,
+                    "startOffset": 30039,
                     "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 30531
+                    "endOffset": 30535
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2415,9 +2415,9 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 30536,
+                    "startOffset": 30540,
                     "endColumn": 88,
-                    "endOffset": 30620
+                    "endOffset": 30624
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2427,10 +2427,10 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 30625,
+                    "startOffset": 30629,
                     "endLine": 245,
                     "endColumn": 12,
-                    "endOffset": 30867
+                    "endOffset": 30871
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2440,10 +2440,10 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 30872,
+                    "startOffset": 30876,
                     "endLine": 249,
                     "endColumn": 12,
-                    "endOffset": 31148
+                    "endOffset": 31152
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2453,10 +2453,10 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 31153,
+                    "startOffset": 31157,
                     "endLine": 254,
                     "endColumn": 12,
-                    "endOffset": 31433
+                    "endOffset": 31437
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2466,10 +2466,10 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 31438,
+                    "startOffset": 31442,
                     "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 31826
+                    "endOffset": 31830
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2479,10 +2479,10 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 31831,
+                    "startOffset": 31835,
                     "endLine": 267,
                     "endColumn": 12,
-                    "endOffset": 32303
+                    "endOffset": 32307
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2492,10 +2492,10 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 32308,
+                    "startOffset": 32312,
                     "endLine": 271,
                     "endColumn": 12,
-                    "endOffset": 32525
+                    "endOffset": 32529
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2505,10 +2505,10 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 32530,
+                    "startOffset": 32534,
                     "endLine": 275,
                     "endColumn": 12,
-                    "endOffset": 32747
+                    "endOffset": 32751
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2518,10 +2518,10 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 32752,
+                    "startOffset": 32756,
                     "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 33015
+                    "endOffset": 33019
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2531,10 +2531,10 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 33020,
+                    "startOffset": 33024,
                     "endLine": 284,
                     "endColumn": 12,
-                    "endOffset": 33242
+                    "endOffset": 33246
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2544,10 +2544,10 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 33247,
+                    "startOffset": 33251,
                     "endLine": 288,
                     "endColumn": 12,
-                    "endOffset": 33472
+                    "endOffset": 33476
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2557,10 +2557,10 @@
                 "to": {
                     "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 33477,
+                    "startOffset": 33481,
                     "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 33702
+                    "endOffset": 33706
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2570,10 +2570,10 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 33707,
+                    "startOffset": 33711,
                     "endLine": 296,
                     "endColumn": 12,
-                    "endOffset": 33932
+                    "endOffset": 33936
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2583,10 +2583,10 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 33937,
+                    "startOffset": 33941,
                     "endLine": 300,
                     "endColumn": 12,
-                    "endOffset": 34162
+                    "endOffset": 34166
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2596,10 +2596,10 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 34167,
+                    "startOffset": 34171,
                     "endLine": 304,
                     "endColumn": 12,
-                    "endOffset": 34389
+                    "endOffset": 34393
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2609,10 +2609,10 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 34394,
+                    "startOffset": 34398,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 34628
+                    "endOffset": 34632
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2622,10 +2622,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 34633,
+                    "startOffset": 34637,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 34854
+                    "endOffset": 34858
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2635,10 +2635,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 34859,
+                    "startOffset": 34863,
                     "endLine": 316,
                     "endColumn": 12,
-                    "endOffset": 35099
+                    "endOffset": 35103
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2648,10 +2648,10 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 35104,
+                    "startOffset": 35108,
                     "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 35229
+                    "endOffset": 35233
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2661,10 +2661,10 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 35234,
+                    "startOffset": 35238,
                     "endLine": 320,
                     "endColumn": 12,
-                    "endOffset": 35359
+                    "endOffset": 35363
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2674,10 +2674,10 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 35364,
+                    "startOffset": 35368,
                     "endLine": 324,
                     "endColumn": 12,
-                    "endOffset": 35589
+                    "endOffset": 35593
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2687,10 +2687,10 @@
                 "to": {
                     "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 35594,
+                    "startOffset": 35598,
                     "endLine": 328,
                     "endColumn": 12,
-                    "endOffset": 35837
+                    "endOffset": 35841
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2700,10 +2700,10 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 35842,
+                    "startOffset": 35846,
                     "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 36056
+                    "endOffset": 36060
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2713,10 +2713,10 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 36061,
+                    "startOffset": 36065,
                     "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 36339
+                    "endOffset": 36343
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2726,10 +2726,10 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 36344,
+                    "startOffset": 36348,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 36547
+                    "endOffset": 36551
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2739,10 +2739,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 36552,
+                    "startOffset": 36556,
                     "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 36678
+                    "endOffset": 36682
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2752,10 +2752,10 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 36683,
+                    "startOffset": 36687,
                     "endLine": 348,
                     "endColumn": 12,
-                    "endOffset": 36905
+                    "endOffset": 36909
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2765,10 +2765,10 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 36910,
+                    "startOffset": 36914,
                     "endLine": 352,
                     "endColumn": 12,
-                    "endOffset": 37151
+                    "endOffset": 37155
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2778,10 +2778,10 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 37156,
+                    "startOffset": 37160,
                     "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 37376
+                    "endOffset": 37380
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2791,10 +2791,10 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 37381,
+                    "startOffset": 37385,
                     "endLine": 360,
                     "endColumn": 12,
-                    "endOffset": 37623
+                    "endOffset": 37627
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2804,10 +2804,10 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 37628,
+                    "startOffset": 37632,
                     "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 37844
+                    "endOffset": 37848
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2817,10 +2817,10 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 37849,
+                    "startOffset": 37853,
                     "endLine": 368,
                     "endColumn": 12,
-                    "endOffset": 38089
+                    "endOffset": 38093
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2830,10 +2830,10 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 38094,
+                    "startOffset": 38098,
                     "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 38363
+                    "endOffset": 38367
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2843,10 +2843,10 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 38368,
+                    "startOffset": 38372,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 38664
+                    "endOffset": 38668
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2856,10 +2856,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 38669,
+                    "startOffset": 38673,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 38988
+                    "endOffset": 38992
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2869,10 +2869,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 38993,
+                    "startOffset": 38997,
                     "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 39279
+                    "endOffset": 39283
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2882,10 +2882,10 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 39284,
+                    "startOffset": 39288,
                     "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 39593
+                    "endOffset": 39597
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2895,9 +2895,9 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 39598,
+                    "startOffset": 39602,
                     "endColumn": 136,
-                    "endOffset": 39730
+                    "endOffset": 39734
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2907,9 +2907,9 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 39735,
+                    "startOffset": 39739,
                     "endColumn": 130,
-                    "endOffset": 39861
+                    "endOffset": 39865
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2919,9 +2919,9 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 39866,
+                    "startOffset": 39870,
                     "endColumn": 104,
-                    "endOffset": 39966
+                    "endOffset": 39970
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2931,10 +2931,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 39971,
+                    "startOffset": 39975,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 40170
+                    "endOffset": 40174
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2944,10 +2944,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 40175,
+                    "startOffset": 40179,
                     "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 40378
+                    "endOffset": 40382
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2957,10 +2957,10 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 40383,
+                    "startOffset": 40387,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 40502
+                    "endOffset": 40506
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2970,10 +2970,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 40507,
+                    "startOffset": 40511,
                     "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 40626
+                    "endOffset": 40630
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2983,9 +2983,9 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 40631,
+                    "startOffset": 40635,
                     "endColumn": 104,
-                    "endOffset": 40731
+                    "endOffset": 40735
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -2995,9 +2995,9 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 40736,
+                    "startOffset": 40740,
                     "endColumn": 116,
-                    "endOffset": 40848
+                    "endOffset": 40852
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3007,10 +3007,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 40853,
+                    "startOffset": 40857,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 41062
+                    "endOffset": 41066
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3020,10 +3020,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 41067,
+                    "startOffset": 41071,
                     "endLine": 408,
                     "endColumn": 12,
-                    "endOffset": 41208
+                    "endOffset": 41212
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3033,10 +3033,10 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 41213,
+                    "startOffset": 41217,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 41348
+                    "endOffset": 41352
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3046,10 +3046,10 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 41353,
+                    "startOffset": 41357,
                     "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 41434
+                    "endOffset": 41438
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3059,10 +3059,10 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 41439,
+                    "startOffset": 41443,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 41782
+                    "endOffset": 41786
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3072,9 +3072,9 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 41787,
+                    "startOffset": 41791,
                     "endColumn": 87,
-                    "endOffset": 41870
+                    "endOffset": 41874
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3084,10 +3084,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 41875,
+                    "startOffset": 41879,
                     "endLine": 422,
                     "endColumn": 12,
-                    "endOffset": 42100
+                    "endOffset": 42104
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3097,10 +3097,10 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 42105,
+                    "startOffset": 42109,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 42518
+                    "endOffset": 42522
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3110,10 +3110,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 42523,
+                    "startOffset": 42527,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 42751
+                    "endOffset": 42755
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3123,9 +3123,9 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 42756,
+                    "startOffset": 42760,
                     "endColumn": 81,
-                    "endOffset": 42833
+                    "endOffset": 42837
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3135,10 +3135,10 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 42838,
+                    "startOffset": 42842,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 42931
+                    "endOffset": 42935
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3148,10 +3148,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 42936,
+                    "startOffset": 42940,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 43548
+                    "endOffset": 43552
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3161,9 +3161,9 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 43553,
+                    "startOffset": 43557,
                     "endColumn": 99,
-                    "endOffset": 43648
+                    "endOffset": 43652
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3173,10 +3173,10 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 43653,
+                    "startOffset": 43657,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 43884
+                    "endOffset": 43888
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3186,10 +3186,10 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 43889,
+                    "startOffset": 43893,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 44308
+                    "endOffset": 44312
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3199,10 +3199,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 44313,
+                    "startOffset": 44317,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 44547
+                    "endOffset": 44551
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3212,9 +3212,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 44552,
+                    "startOffset": 44556,
                     "endColumn": 93,
-                    "endOffset": 44641
+                    "endOffset": 44645
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3224,9 +3224,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 44646,
+                    "startOffset": 44650,
                     "endColumn": 88,
-                    "endOffset": 44730
+                    "endOffset": 44734
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3236,10 +3236,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 44735,
+                    "startOffset": 44739,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 44967
+                    "endOffset": 44971
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3249,10 +3249,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 44972,
+                    "startOffset": 44976,
                     "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 46918
+                    "endOffset": 46922
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3262,10 +3262,10 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 46923,
+                    "startOffset": 46927,
                     "endLine": 497,
                     "endColumn": 12,
-                    "endOffset": 47160
+                    "endOffset": 47164
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3275,10 +3275,10 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 47165,
+                    "startOffset": 47169,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 49242
+                    "endOffset": 49246
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3288,10 +3288,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 49247,
+                    "startOffset": 49251,
                     "endLine": 677,
                     "endColumn": 12,
-                    "endOffset": 58924
+                    "endOffset": 58928
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3301,10 +3301,10 @@
                 "to": {
                     "startLine": 678,
                     "startColumn": 4,
-                    "startOffset": 58929,
+                    "startOffset": 58933,
                     "endLine": 699,
                     "endColumn": 12,
-                    "endOffset": 60191
+                    "endOffset": 60195
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3314,10 +3314,10 @@
                 "to": {
                     "startLine": 700,
                     "startColumn": 4,
-                    "startOffset": 60196,
+                    "startOffset": 60200,
                     "endLine": 852,
                     "endColumn": 12,
-                    "endOffset": 69983
+                    "endOffset": 69987
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3327,10 +3327,10 @@
                 "to": {
                     "startLine": 853,
                     "startColumn": 4,
-                    "startOffset": 69988,
+                    "startOffset": 69992,
                     "endLine": 874,
                     "endColumn": 12,
-                    "endOffset": 71264
+                    "endOffset": 71268
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3340,10 +3340,10 @@
                 "to": {
                     "startLine": 875,
                     "startColumn": 4,
-                    "startOffset": 71269,
+                    "startOffset": 71273,
                     "endLine": 881,
                     "endColumn": 12,
-                    "endOffset": 71800
+                    "endOffset": 71804
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3353,10 +3353,10 @@
                 "to": {
                     "startLine": 882,
                     "startColumn": 4,
-                    "startOffset": 71805,
+                    "startOffset": 71809,
                     "endLine": 886,
                     "endColumn": 12,
-                    "endOffset": 72130
+                    "endOffset": 72134
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3366,10 +3366,10 @@
                 "to": {
                     "startLine": 887,
                     "startColumn": 4,
-                    "startOffset": 72135,
+                    "startOffset": 72139,
                     "endLine": 907,
                     "endColumn": 12,
-                    "endOffset": 73253
+                    "endOffset": 73257
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3379,10 +3379,10 @@
                 "to": {
                     "startLine": 908,
                     "startColumn": 4,
-                    "startOffset": 73258,
+                    "startOffset": 73262,
                     "endLine": 912,
                     "endColumn": 12,
-                    "endOffset": 73509
+                    "endOffset": 73513
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3392,10 +3392,10 @@
                 "to": {
                     "startLine": 913,
                     "startColumn": 4,
-                    "startOffset": 73514,
+                    "startOffset": 73518,
                     "endLine": 917,
                     "endColumn": 12,
-                    "endOffset": 73745
+                    "endOffset": 73749
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3405,10 +3405,10 @@
                 "to": {
                     "startLine": 918,
                     "startColumn": 4,
-                    "startOffset": 73750,
+                    "startOffset": 73754,
                     "endLine": 927,
                     "endColumn": 12,
-                    "endOffset": 74292
+                    "endOffset": 74296
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3418,10 +3418,10 @@
                 "to": {
                     "startLine": 928,
                     "startColumn": 4,
-                    "startOffset": 74297,
+                    "startOffset": 74301,
                     "endLine": 936,
                     "endColumn": 12,
-                    "endOffset": 74786
+                    "endOffset": 74790
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3431,10 +3431,10 @@
                 "to": {
                     "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 74791,
+                    "startOffset": 74795,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 75391
+                    "endOffset": 75395
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3444,10 +3444,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 75396,
+                    "startOffset": 75400,
                     "endLine": 948,
                     "endColumn": 12,
-                    "endOffset": 75539
+                    "endOffset": 75543
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3457,10 +3457,10 @@
                 "to": {
                     "startLine": 949,
                     "startColumn": 4,
-                    "startOffset": 75544,
+                    "startOffset": 75548,
                     "endLine": 955,
                     "endColumn": 12,
-                    "endOffset": 76127
+                    "endOffset": 76131
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3470,10 +3470,10 @@
                 "to": {
                     "startLine": 956,
                     "startColumn": 4,
-                    "startOffset": 76132,
+                    "startOffset": 76136,
                     "endLine": 963,
                     "endColumn": 12,
-                    "endOffset": 76691
+                    "endOffset": 76695
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3483,10 +3483,10 @@
                 "to": {
                     "startLine": 964,
                     "startColumn": 4,
-                    "startOffset": 76696,
+                    "startOffset": 76700,
                     "endLine": 970,
                     "endColumn": 12,
-                    "endOffset": 77066
+                    "endOffset": 77070
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3496,9 +3496,9 @@
                 "to": {
                     "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 77071,
+                    "startOffset": 77075,
                     "endColumn": 117,
-                    "endOffset": 77184
+                    "endOffset": 77188
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3508,10 +3508,10 @@
                 "to": {
                     "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 77189,
+                    "startOffset": 77193,
                     "endLine": 980,
                     "endColumn": 12,
-                    "endOffset": 77722
+                    "endOffset": 77726
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3521,10 +3521,10 @@
                 "to": {
                     "startLine": 981,
                     "startColumn": 4,
-                    "startOffset": 77727,
+                    "startOffset": 77731,
                     "endLine": 983,
                     "endColumn": 12,
-                    "endOffset": 77879
+                    "endOffset": 77883
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3534,10 +3534,10 @@
                 "to": {
                     "startLine": 984,
                     "startColumn": 4,
-                    "startOffset": 77884,
+                    "startOffset": 77888,
                     "endLine": 986,
                     "endColumn": 12,
-                    "endOffset": 78023
+                    "endOffset": 78027
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3547,10 +3547,10 @@
                 "to": {
                     "startLine": 987,
                     "startColumn": 4,
-                    "startOffset": 78028,
+                    "startOffset": 78032,
                     "endLine": 991,
                     "endColumn": 12,
-                    "endOffset": 78343
+                    "endOffset": 78347
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3560,10 +3560,10 @@
                 "to": {
                     "startLine": 992,
                     "startColumn": 4,
-                    "startOffset": 78348,
+                    "startOffset": 78352,
                     "endLine": 995,
                     "endColumn": 12,
-                    "endOffset": 78599
+                    "endOffset": 78603
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3573,10 +3573,10 @@
                 "to": {
                     "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 78604,
+                    "startOffset": 78608,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 78769
+                    "endOffset": 78773
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3586,10 +3586,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 78774,
+                    "startOffset": 78778,
                     "endLine": 1002,
                     "endColumn": 12,
-                    "endOffset": 78910
+                    "endOffset": 78914
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3599,9 +3599,9 @@
                 "to": {
                     "startLine": 1003,
                     "startColumn": 4,
-                    "startOffset": 78915,
+                    "startOffset": 78919,
                     "endColumn": 63,
-                    "endOffset": 78974
+                    "endOffset": 78978
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3611,10 +3611,10 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 78979,
+                    "startOffset": 78983,
                     "endLine": 1007,
                     "endColumn": 12,
-                    "endOffset": 79256
+                    "endOffset": 79260
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3624,10 +3624,10 @@
                 "to": {
                     "startLine": 1008,
                     "startColumn": 4,
-                    "startOffset": 79261,
+                    "startOffset": 79265,
                     "endLine": 1011,
                     "endColumn": 12,
-                    "endOffset": 79542
+                    "endOffset": 79546
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3637,10 +3637,10 @@
                 "to": {
                     "startLine": 1012,
                     "startColumn": 4,
-                    "startOffset": 79547,
+                    "startOffset": 79551,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 80218
+                    "endOffset": 80222
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3650,10 +3650,10 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 80223,
+                    "startOffset": 80227,
                     "endLine": 1026,
                     "endColumn": 12,
-                    "endOffset": 80482
+                    "endOffset": 80486
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3663,10 +3663,10 @@
                 "to": {
                     "startLine": 1027,
                     "startColumn": 4,
-                    "startOffset": 80487,
+                    "startOffset": 80491,
                     "endLine": 1033,
                     "endColumn": 12,
-                    "endOffset": 80820
+                    "endOffset": 80824
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3676,10 +3676,10 @@
                 "to": {
                     "startLine": 1034,
                     "startColumn": 4,
-                    "startOffset": 80825,
+                    "startOffset": 80829,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 81173
+                    "endOffset": 81177
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3689,9 +3689,9 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 81178,
+                    "startOffset": 81182,
                     "endColumn": 93,
-                    "endOffset": 81267
+                    "endOffset": 81271
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3701,10 +3701,10 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 81272,
+                    "startOffset": 81276,
                     "endLine": 1043,
                     "endColumn": 12,
-                    "endOffset": 81453
+                    "endOffset": 81457
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3714,10 +3714,10 @@
                 "to": {
                     "startLine": 1044,
                     "startColumn": 4,
-                    "startOffset": 81458,
+                    "startOffset": 81462,
                     "endLine": 1047,
                     "endColumn": 12,
-                    "endOffset": 81759
+                    "endOffset": 81763
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3727,10 +3727,10 @@
                 "to": {
                     "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 81764,
+                    "startOffset": 81768,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 82021
+                    "endOffset": 82025
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3740,10 +3740,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 82026,
+                    "startOffset": 82030,
                     "endLine": 1054,
                     "endColumn": 12,
-                    "endOffset": 82146
+                    "endOffset": 82150
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3753,10 +3753,10 @@
                 "to": {
                     "startLine": 1055,
                     "startColumn": 4,
-                    "startOffset": 82151,
+                    "startOffset": 82155,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 82273
+                    "endOffset": 82277
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3766,10 +3766,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 82278,
+                    "startOffset": 82282,
                     "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 82512
+                    "endOffset": 82516
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3779,10 +3779,10 @@
                 "to": {
                     "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 82517,
+                    "startOffset": 82521,
                     "endLine": 1062,
                     "endColumn": 12,
-                    "endOffset": 82723
+                    "endOffset": 82727
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3792,10 +3792,10 @@
                 "to": {
                     "startLine": 1063,
                     "startColumn": 4,
-                    "startOffset": 82728,
+                    "startOffset": 82732,
                     "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 82842
+                    "endOffset": 82846
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3805,10 +3805,10 @@
                 "to": {
                     "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 82847,
+                    "startOffset": 82851,
                     "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 83035
+                    "endOffset": 83039
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3818,10 +3818,10 @@
                 "to": {
                     "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 83040,
+                    "startOffset": 83044,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 83490
+                    "endOffset": 83494
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3831,10 +3831,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 83495,
+                    "startOffset": 83499,
                     "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 83671
+                    "endOffset": 83675
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3844,10 +3844,10 @@
                 "to": {
                     "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 83676,
+                    "startOffset": 83680,
                     "endLine": 1081,
                     "endColumn": 12,
-                    "endOffset": 83793
+                    "endOffset": 83797
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3857,10 +3857,10 @@
                 "to": {
                     "startLine": 1082,
                     "startColumn": 4,
-                    "startOffset": 83798,
+                    "startOffset": 83802,
                     "endLine": 1085,
                     "endColumn": 12,
-                    "endOffset": 84052
+                    "endOffset": 84056
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3870,10 +3870,10 @@
                 "to": {
                     "startLine": 1086,
                     "startColumn": 4,
-                    "startOffset": 84057,
+                    "startOffset": 84061,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 84165
+                    "endOffset": 84169
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3883,10 +3883,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 84170,
+                    "startOffset": 84174,
                     "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 84352
+                    "endOffset": 84356
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3896,10 +3896,10 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 84357,
+                    "startOffset": 84361,
                     "endLine": 1093,
                     "endColumn": 12,
-                    "endOffset": 84454
+                    "endOffset": 84458
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3909,10 +3909,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 84459,
+                    "startOffset": 84463,
                     "endLine": 1099,
                     "endColumn": 12,
-                    "endOffset": 84898
+                    "endOffset": 84902
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3922,10 +3922,10 @@
                 "to": {
                     "startLine": 1100,
                     "startColumn": 4,
-                    "startOffset": 84903,
+                    "startOffset": 84907,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 85022
+                    "endOffset": 85026
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3935,10 +3935,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 85027,
+                    "startOffset": 85031,
                     "endLine": 1105,
                     "endColumn": 12,
-                    "endOffset": 85307
+                    "endOffset": 85311
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3948,10 +3948,10 @@
                 "to": {
                     "startLine": 1106,
                     "startColumn": 4,
-                    "startOffset": 85312,
+                    "startOffset": 85316,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 86194
+                    "endOffset": 86198
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3961,10 +3961,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 86199,
+                    "startOffset": 86203,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 86488
+                    "endOffset": 86492
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3974,10 +3974,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 86493,
+                    "startOffset": 86497,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 87058
+                    "endOffset": 87062
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -3987,10 +3987,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 87063,
+                    "startOffset": 87067,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 87790
+                    "endOffset": 87794
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4000,10 +4000,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 87795,
+                    "startOffset": 87799,
                     "endLine": 1146,
                     "endColumn": 12,
-                    "endOffset": 87962
+                    "endOffset": 87966
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4013,10 +4013,10 @@
                 "to": {
                     "startLine": 1147,
                     "startColumn": 4,
-                    "startOffset": 87967,
+                    "startOffset": 87971,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 88298
+                    "endOffset": 88302
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4026,10 +4026,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 88303,
+                    "startOffset": 88307,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 89165
+                    "endOffset": 89169
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4039,10 +4039,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 89170,
+                    "startOffset": 89174,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 89443
+                    "endOffset": 89447
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4052,10 +4052,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 89448,
+                    "startOffset": 89452,
                     "endLine": 1206,
                     "endColumn": 12,
-                    "endOffset": 92305
+                    "endOffset": 92309
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4065,10 +4065,10 @@
                 "to": {
                     "startLine": 1207,
                     "startColumn": 4,
-                    "startOffset": 92310,
+                    "startOffset": 92314,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 95307
+                    "endOffset": 95311
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4078,9 +4078,9 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 95312,
+                    "startOffset": 95316,
                     "endColumn": 61,
-                    "endOffset": 95369
+                    "endOffset": 95373
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4090,10 +4090,10 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 95374,
+                    "startOffset": 95378,
                     "endLine": 1256,
                     "endColumn": 12,
-                    "endOffset": 95999
+                    "endOffset": 96003
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4103,10 +4103,10 @@
                 "to": {
                     "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 96004,
+                    "startOffset": 96008,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 96613
+                    "endOffset": 96617
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4116,9 +4116,9 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 96618,
+                    "startOffset": 96622,
                     "endColumn": 85,
-                    "endOffset": 96699
+                    "endOffset": 96703
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4128,10 +4128,10 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 96704,
+                    "startOffset": 96708,
                     "endLine": 1268,
                     "endColumn": 12,
-                    "endOffset": 96812
+                    "endOffset": 96816
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4141,10 +4141,10 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 96817,
+                    "startOffset": 96821,
                     "endLine": 1272,
                     "endColumn": 12,
-                    "endOffset": 97041
+                    "endOffset": 97045
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4154,10 +4154,10 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 97046,
+                    "startOffset": 97050,
                     "endLine": 1275,
                     "endColumn": 12,
-                    "endOffset": 97201
+                    "endOffset": 97205
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4167,10 +4167,10 @@
                 "to": {
                     "startLine": 1276,
                     "startColumn": 4,
-                    "startOffset": 97206,
+                    "startOffset": 97210,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97353
+                    "endOffset": 97357
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4180,10 +4180,10 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97358,
+                    "startOffset": 97362,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 97524
+                    "endOffset": 97528
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4193,10 +4193,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 97529,
+                    "startOffset": 97533,
                     "endLine": 1284,
                     "endColumn": 12,
-                    "endOffset": 97691
+                    "endOffset": 97695
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4206,10 +4206,10 @@
                 "to": {
                     "startLine": 1285,
                     "startColumn": 4,
-                    "startOffset": 97696,
+                    "startOffset": 97700,
                     "endLine": 1288,
                     "endColumn": 12,
-                    "endOffset": 97934
+                    "endOffset": 97938
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4219,10 +4219,10 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 97939,
+                    "startOffset": 97943,
                     "endLine": 1291,
                     "endColumn": 12,
-                    "endOffset": 98104
+                    "endOffset": 98108
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4232,10 +4232,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 98109,
+                    "startOffset": 98113,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 98277
+                    "endOffset": 98281
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4245,10 +4245,10 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 98282,
+                    "startOffset": 98286,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98448
+                    "endOffset": 98452
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4258,10 +4258,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98453,
+                    "startOffset": 98457,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 98722
+                    "endOffset": 98726
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4271,10 +4271,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 98727,
+                    "startOffset": 98731,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 98921
+                    "endOffset": 98925
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4284,10 +4284,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 98926,
+                    "startOffset": 98930,
                     "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 99126
+                    "endOffset": 99130
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4297,10 +4297,10 @@
                 "to": {
                     "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 99131,
+                    "startOffset": 99135,
                     "endLine": 1312,
                     "endColumn": 12,
-                    "endOffset": 99456
+                    "endOffset": 99460
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4310,9 +4310,9 @@
                 "to": {
                     "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 99461,
+                    "startOffset": 99465,
                     "endColumn": 83,
-                    "endOffset": 99540
+                    "endOffset": 99544
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4322,9 +4322,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 99545,
+                    "startOffset": 99549,
                     "endColumn": 95,
-                    "endOffset": 99636
+                    "endOffset": 99640
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4334,9 +4334,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99641,
+                    "startOffset": 99645,
                     "endColumn": 95,
-                    "endOffset": 99732
+                    "endOffset": 99736
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4346,9 +4346,9 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 99737,
+                    "startOffset": 99741,
                     "endColumn": 97,
-                    "endOffset": 99830
+                    "endOffset": 99834
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4358,9 +4358,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 99835,
+                    "startOffset": 99839,
                     "endColumn": 99,
-                    "endOffset": 99930
+                    "endOffset": 99934
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4370,9 +4370,9 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99935,
+                    "startOffset": 99939,
                     "endColumn": 101,
-                    "endOffset": 100032
+                    "endOffset": 100036
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4382,9 +4382,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 100037,
+                    "startOffset": 100041,
                     "endColumn": 101,
-                    "endOffset": 100134
+                    "endOffset": 100138
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4394,9 +4394,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 100139,
+                    "startOffset": 100143,
                     "endColumn": 101,
-                    "endOffset": 100236
+                    "endOffset": 100240
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4406,9 +4406,9 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 100241,
+                    "startOffset": 100245,
                     "endColumn": 101,
-                    "endOffset": 100338
+                    "endOffset": 100342
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4418,9 +4418,9 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 100343,
+                    "startOffset": 100347,
                     "endColumn": 101,
-                    "endOffset": 100440
+                    "endOffset": 100444
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4430,9 +4430,9 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 100445,
+                    "startOffset": 100449,
                     "endColumn": 99,
-                    "endOffset": 100540
+                    "endOffset": 100544
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4442,9 +4442,9 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100545,
+                    "startOffset": 100549,
                     "endColumn": 95,
-                    "endOffset": 100636
+                    "endOffset": 100640
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4454,9 +4454,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100641,
+                    "startOffset": 100645,
                     "endColumn": 111,
-                    "endOffset": 100748
+                    "endOffset": 100752
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4466,9 +4466,9 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100753,
+                    "startOffset": 100757,
                     "endColumn": 128,
-                    "endOffset": 100877
+                    "endOffset": 100881
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4478,9 +4478,9 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 100882,
+                    "startOffset": 100886,
                     "endColumn": 122,
-                    "endOffset": 101000
+                    "endOffset": 101004
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4490,10 +4490,10 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 101005,
+                    "startOffset": 101009,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 101154
+                    "endOffset": 101158
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4503,10 +4503,10 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101159,
+                    "startOffset": 101163,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 101308
+                    "endOffset": 101312
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4516,9 +4516,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101313,
+                    "startOffset": 101317,
                     "endColumn": 97,
-                    "endOffset": 101406
+                    "endOffset": 101410
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4528,9 +4528,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101411,
+                    "startOffset": 101415,
                     "endColumn": 113,
-                    "endOffset": 101520
+                    "endOffset": 101524
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4540,9 +4540,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101525,
+                    "startOffset": 101529,
                     "endColumn": 93,
-                    "endOffset": 101614
+                    "endOffset": 101618
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4552,10 +4552,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101619,
+                    "startOffset": 101623,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 101754
+                    "endOffset": 101758
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4565,10 +4565,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 101759,
+                    "startOffset": 101763,
                     "endLine": 1338,
                     "endColumn": 12,
-                    "endOffset": 101888
+                    "endOffset": 101892
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4578,9 +4578,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 101893,
+                    "startOffset": 101897,
                     "endColumn": 95,
-                    "endOffset": 101984
+                    "endOffset": 101988
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4590,9 +4590,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101989,
+                    "startOffset": 101993,
                     "endColumn": 111,
-                    "endOffset": 102096
+                    "endOffset": 102100
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4602,9 +4602,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 102101,
+                    "startOffset": 102105,
                     "endColumn": 99,
-                    "endOffset": 102196
+                    "endOffset": 102200
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4614,9 +4614,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 102201,
+                    "startOffset": 102205,
                     "endColumn": 115,
-                    "endOffset": 102312
+                    "endOffset": 102316
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4626,9 +4626,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102317,
+                    "startOffset": 102321,
                     "endColumn": 95,
-                    "endOffset": 102408
+                    "endOffset": 102412
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4638,9 +4638,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 102413,
+                    "startOffset": 102417,
                     "endColumn": 111,
-                    "endOffset": 102520
+                    "endOffset": 102524
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4650,10 +4650,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102525,
+                    "startOffset": 102529,
                     "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 102660
+                    "endOffset": 102664
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4663,9 +4663,9 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102665,
+                    "startOffset": 102669,
                     "endColumn": 135,
-                    "endOffset": 102796
+                    "endOffset": 102800
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4675,10 +4675,10 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 102801,
+                    "startOffset": 102805,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 102960
+                    "endOffset": 102964
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4688,9 +4688,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102965,
+                    "startOffset": 102969,
                     "endColumn": 129,
-                    "endOffset": 103090
+                    "endOffset": 103094
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4700,10 +4700,10 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 103095,
+                    "startOffset": 103099,
                     "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 103248
+                    "endOffset": 103252
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4713,10 +4713,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 103253,
+                    "startOffset": 103257,
                     "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 103398
+                    "endOffset": 103402
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4726,9 +4726,9 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 103403,
+                    "startOffset": 103407,
                     "endColumn": 140,
-                    "endOffset": 103539
+                    "endOffset": 103543
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4738,10 +4738,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103544,
+                    "startOffset": 103548,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 103683
+                    "endOffset": 103687
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4751,9 +4751,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103688,
+                    "startOffset": 103692,
                     "endColumn": 134,
-                    "endOffset": 103818
+                    "endOffset": 103822
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4763,9 +4763,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103823,
+                    "startOffset": 103827,
                     "endColumn": 111,
-                    "endOffset": 103930
+                    "endOffset": 103934
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4775,9 +4775,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103935,
+                    "startOffset": 103939,
                     "endColumn": 127,
-                    "endOffset": 104058
+                    "endOffset": 104062
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4787,10 +4787,10 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 104063,
+                    "startOffset": 104067,
                     "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 104194
+                    "endOffset": 104198
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4800,10 +4800,10 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 104199,
+                    "startOffset": 104203,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 104336
+                    "endOffset": 104340
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4813,10 +4813,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104341,
+                    "startOffset": 104345,
                     "endLine": 1366,
                     "endColumn": 12,
-                    "endOffset": 104478
+                    "endOffset": 104482
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4826,9 +4826,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104483,
+                    "startOffset": 104487,
                     "endColumn": 111,
-                    "endOffset": 104590
+                    "endOffset": 104594
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4838,9 +4838,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104595,
+                    "startOffset": 104599,
                     "endColumn": 139,
-                    "endOffset": 104730
+                    "endOffset": 104734
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4850,9 +4850,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104735,
+                    "startOffset": 104739,
                     "endColumn": 67,
-                    "endOffset": 104798
+                    "endOffset": 104802
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4862,9 +4862,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 104803,
+                    "startOffset": 104807,
                     "endColumn": 72,
-                    "endOffset": 104871
+                    "endOffset": 104875
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4874,9 +4874,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104876,
+                    "startOffset": 104880,
                     "endColumn": 73,
-                    "endOffset": 104945
+                    "endOffset": 104949
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4886,9 +4886,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104950,
+                    "startOffset": 104954,
                     "endColumn": 72,
-                    "endOffset": 105018
+                    "endOffset": 105022
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4898,9 +4898,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 105023,
+                    "startOffset": 105027,
                     "endColumn": 73,
-                    "endOffset": 105092
+                    "endOffset": 105096
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4910,10 +4910,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 105097,
+                    "startOffset": 105101,
                     "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 105238
+                    "endOffset": 105242
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4923,10 +4923,10 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105243,
+                    "startOffset": 105247,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 105382
+                    "endOffset": 105386
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4936,10 +4936,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 105387,
+                    "startOffset": 105391,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 105520
+                    "endOffset": 105524
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4949,9 +4949,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105525,
+                    "startOffset": 105529,
                     "endColumn": 65,
-                    "endOffset": 105586
+                    "endOffset": 105590
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4961,9 +4961,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105591,
+                    "startOffset": 105595,
                     "endColumn": 89,
-                    "endOffset": 105676
+                    "endOffset": 105680
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4973,9 +4973,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105681,
+                    "startOffset": 105685,
                     "endColumn": 79,
-                    "endOffset": 105756
+                    "endOffset": 105760
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4985,9 +4985,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105761,
+                    "startOffset": 105765,
                     "endColumn": 91,
-                    "endOffset": 105848
+                    "endOffset": 105852
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -4997,9 +4997,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105853,
+                    "startOffset": 105857,
                     "endColumn": 97,
-                    "endOffset": 105946
+                    "endOffset": 105950
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5009,10 +5009,10 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105951,
+                    "startOffset": 105955,
                     "endLine": 1386,
                     "endColumn": 12,
-                    "endOffset": 106056
+                    "endOffset": 106060
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5022,9 +5022,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 106061,
+                    "startOffset": 106065,
                     "endColumn": 77,
-                    "endOffset": 106134
+                    "endOffset": 106138
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5034,9 +5034,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 106139,
+                    "startOffset": 106143,
                     "endColumn": 105,
-                    "endOffset": 106240
+                    "endOffset": 106244
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5046,9 +5046,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106245,
+                    "startOffset": 106249,
                     "endColumn": 91,
-                    "endOffset": 106332
+                    "endOffset": 106336
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5058,9 +5058,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106337,
+                    "startOffset": 106341,
                     "endColumn": 103,
-                    "endOffset": 106436
+                    "endOffset": 106440
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5070,9 +5070,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106441,
+                    "startOffset": 106445,
                     "endColumn": 109,
-                    "endOffset": 106546
+                    "endOffset": 106550
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5082,10 +5082,10 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106551,
+                    "startOffset": 106555,
                     "endLine": 1393,
                     "endColumn": 12,
-                    "endOffset": 106668
+                    "endOffset": 106672
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5095,10 +5095,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 106673,
+                    "startOffset": 106677,
                     "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 106831
+                    "endOffset": 106835
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5108,10 +5108,10 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 106836,
+                    "startOffset": 106840,
                     "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 106988
+                    "endOffset": 106992
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5121,9 +5121,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 106993,
+                    "startOffset": 106997,
                     "endColumn": 79,
-                    "endOffset": 107068
+                    "endOffset": 107072
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5133,9 +5133,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107073,
+                    "startOffset": 107077,
                     "endColumn": 99,
-                    "endOffset": 107168
+                    "endOffset": 107172
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5145,9 +5145,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107173,
+                    "startOffset": 107177,
                     "endColumn": 89,
-                    "endOffset": 107258
+                    "endOffset": 107262
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5157,9 +5157,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107263,
+                    "startOffset": 107267,
                     "endColumn": 109,
-                    "endOffset": 107368
+                    "endOffset": 107372
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5169,9 +5169,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107373,
+                    "startOffset": 107377,
                     "endColumn": 91,
-                    "endOffset": 107460
+                    "endOffset": 107464
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5181,10 +5181,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107465,
+                    "startOffset": 107469,
                     "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 107560
+                    "endOffset": 107564
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5194,10 +5194,10 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107565,
+                    "startOffset": 107569,
                     "endLine": 1410,
                     "endColumn": 12,
-                    "endOffset": 107672
+                    "endOffset": 107676
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5207,10 +5207,10 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 107677,
+                    "startOffset": 107681,
                     "endLine": 1412,
                     "endColumn": 12,
-                    "endOffset": 107786
+                    "endOffset": 107790
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5220,10 +5220,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 107791,
+                    "startOffset": 107795,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 107902
+                    "endOffset": 107906
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5233,10 +5233,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 107907,
+                    "startOffset": 107911,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 108018
+                    "endOffset": 108022
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5246,9 +5246,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 108023,
+                    "startOffset": 108027,
                     "endColumn": 93,
-                    "endOffset": 108112
+                    "endOffset": 108116
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5258,9 +5258,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108117,
+                    "startOffset": 108121,
                     "endColumn": 113,
-                    "endOffset": 108226
+                    "endOffset": 108230
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5270,9 +5270,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 108231,
+                    "startOffset": 108235,
                     "endColumn": 111,
-                    "endOffset": 108338
+                    "endOffset": 108342
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5282,10 +5282,10 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 108343,
+                    "startOffset": 108347,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 108440
+                    "endOffset": 108444
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5295,10 +5295,10 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108445,
+                    "startOffset": 108449,
                     "endLine": 1423,
                     "endColumn": 12,
-                    "endOffset": 108560
+                    "endOffset": 108564
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5308,10 +5308,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 108565,
+                    "startOffset": 108569,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 108682
+                    "endOffset": 108686
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5321,9 +5321,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 108687,
+                    "startOffset": 108691,
                     "endColumn": 81,
-                    "endOffset": 108764
+                    "endOffset": 108768
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5333,9 +5333,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108769,
+                    "startOffset": 108773,
                     "endColumn": 103,
-                    "endOffset": 108868
+                    "endOffset": 108872
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5345,9 +5345,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 108873,
+                    "startOffset": 108877,
                     "endColumn": 119,
-                    "endOffset": 108988
+                    "endOffset": 108992
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5357,9 +5357,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108993,
+                    "startOffset": 108997,
                     "endColumn": 125,
-                    "endOffset": 109114
+                    "endOffset": 109118
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5369,9 +5369,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109119,
+                    "startOffset": 109123,
                     "endColumn": 97,
-                    "endOffset": 109212
+                    "endOffset": 109216
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5381,9 +5381,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109217,
+                    "startOffset": 109221,
                     "endColumn": 93,
-                    "endOffset": 109306
+                    "endOffset": 109310
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5393,9 +5393,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109311,
+                    "startOffset": 109315,
                     "endColumn": 87,
-                    "endOffset": 109394
+                    "endOffset": 109398
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5405,9 +5405,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109399,
+                    "startOffset": 109403,
                     "endColumn": 111,
-                    "endOffset": 109506
+                    "endOffset": 109510
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5417,9 +5417,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 109511,
+                    "startOffset": 109515,
                     "endColumn": 115,
-                    "endOffset": 109622
+                    "endOffset": 109626
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5429,9 +5429,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109627,
+                    "startOffset": 109631,
                     "endColumn": 121,
-                    "endOffset": 109744
+                    "endOffset": 109748
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5441,9 +5441,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109749,
+                    "startOffset": 109753,
                     "endColumn": 111,
-                    "endOffset": 109856
+                    "endOffset": 109860
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5453,10 +5453,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109861,
+                    "startOffset": 109865,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 110031
+                    "endOffset": 110035
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5466,9 +5466,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110036,
+                    "startOffset": 110040,
                     "endColumn": 115,
-                    "endOffset": 110147
+                    "endOffset": 110151
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5478,9 +5478,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110152,
+                    "startOffset": 110156,
                     "endColumn": 85,
-                    "endOffset": 110233
+                    "endOffset": 110237
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5490,9 +5490,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 110238,
+                    "startOffset": 110242,
                     "endColumn": 91,
-                    "endOffset": 110325
+                    "endOffset": 110329
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5502,10 +5502,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110330,
+                    "startOffset": 110334,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 110437
+                    "endOffset": 110441
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5515,10 +5515,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110442,
+                    "startOffset": 110446,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 110561
+                    "endOffset": 110565
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5528,9 +5528,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110566,
+                    "startOffset": 110570,
                     "endColumn": 66,
-                    "endOffset": 110628
+                    "endOffset": 110632
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5540,10 +5540,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110633,
+                    "startOffset": 110637,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 110754
+                    "endOffset": 110758
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5553,9 +5553,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 110759,
+                    "startOffset": 110763,
                     "endColumn": 67,
-                    "endOffset": 110822
+                    "endOffset": 110826
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5565,10 +5565,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110827,
+                    "startOffset": 110831,
                     "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 110950
+                    "endOffset": 110954
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5578,10 +5578,10 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 110955,
+                    "startOffset": 110959,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 111094
+                    "endOffset": 111098
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5591,10 +5591,10 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111099,
+                    "startOffset": 111103,
                     "endLine": 1456,
                     "endColumn": 12,
-                    "endOffset": 111222
+                    "endOffset": 111226
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5604,9 +5604,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111227,
+                    "startOffset": 111231,
                     "endColumn": 68,
-                    "endOffset": 111291
+                    "endOffset": 111295
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5616,9 +5616,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111296,
+                    "startOffset": 111300,
                     "endColumn": 94,
-                    "endOffset": 111386
+                    "endOffset": 111390
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5628,9 +5628,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 111391,
+                    "startOffset": 111395,
                     "endColumn": 114,
-                    "endOffset": 111501
+                    "endOffset": 111505
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5640,9 +5640,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111506,
+                    "startOffset": 111510,
                     "endColumn": 112,
-                    "endOffset": 111614
+                    "endOffset": 111618
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5652,9 +5652,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111619,
+                    "startOffset": 111623,
                     "endColumn": 98,
-                    "endOffset": 111713
+                    "endOffset": 111717
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5664,9 +5664,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 111718,
+                    "startOffset": 111722,
                     "endColumn": 108,
-                    "endOffset": 111822
+                    "endOffset": 111826
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5676,9 +5676,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 111827,
+                    "startOffset": 111831,
                     "endColumn": 110,
-                    "endOffset": 111933
+                    "endOffset": 111937
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5688,9 +5688,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 111938,
+                    "startOffset": 111942,
                     "endColumn": 110,
-                    "endOffset": 112044
+                    "endOffset": 112048
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5700,9 +5700,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112049,
+                    "startOffset": 112053,
                     "endColumn": 100,
-                    "endOffset": 112145
+                    "endOffset": 112149
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5712,9 +5712,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 112150,
+                    "startOffset": 112154,
                     "endColumn": 104,
-                    "endOffset": 112250
+                    "endOffset": 112254
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5724,10 +5724,10 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 112255,
+                    "startOffset": 112259,
                     "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 112362
+                    "endOffset": 112366
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5737,10 +5737,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 112367,
+                    "startOffset": 112371,
                     "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 112492
+                    "endOffset": 112496
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5750,9 +5750,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112497,
+                    "startOffset": 112501,
                     "endColumn": 90,
-                    "endOffset": 112583
+                    "endOffset": 112587
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5762,9 +5762,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112588,
+                    "startOffset": 112592,
                     "endColumn": 122,
-                    "endOffset": 112706
+                    "endOffset": 112710
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5774,10 +5774,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 112711,
+                    "startOffset": 112715,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 112818
+                    "endOffset": 112822
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5787,9 +5787,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 112823,
+                    "startOffset": 112827,
                     "endColumn": 85,
-                    "endOffset": 112904
+                    "endOffset": 112908
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5799,9 +5799,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 112909,
+                    "startOffset": 112913,
                     "endColumn": 103,
-                    "endOffset": 113008
+                    "endOffset": 113012
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5811,10 +5811,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 113013,
+                    "startOffset": 113017,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 113116
+                    "endOffset": 113120
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5824,10 +5824,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113121,
+                    "startOffset": 113125,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 113216
+                    "endOffset": 113220
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5837,10 +5837,10 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 113221,
+                    "startOffset": 113225,
                     "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 113334
+                    "endOffset": 113338
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5850,10 +5850,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 113339,
+                    "startOffset": 113343,
                     "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 113438
+                    "endOffset": 113442
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5863,10 +5863,10 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113443,
+                    "startOffset": 113447,
                     "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 113542
+                    "endOffset": 113546
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5876,10 +5876,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 113547,
+                    "startOffset": 113551,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 113668
+                    "endOffset": 113672
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5889,9 +5889,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 113673,
+                    "startOffset": 113677,
                     "endColumn": 87,
-                    "endOffset": 113756
+                    "endOffset": 113760
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5901,9 +5901,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 113761,
+                    "startOffset": 113765,
                     "endColumn": 89,
-                    "endOffset": 113846
+                    "endOffset": 113850
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5913,9 +5913,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 113851,
+                    "startOffset": 113855,
                     "endColumn": 109,
-                    "endOffset": 113956
+                    "endOffset": 113960
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5925,9 +5925,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 113961,
+                    "startOffset": 113965,
                     "endColumn": 83,
-                    "endOffset": 114040
+                    "endOffset": 114044
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5937,9 +5937,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114045,
+                    "startOffset": 114049,
                     "endColumn": 83,
-                    "endOffset": 114124
+                    "endOffset": 114128
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5949,9 +5949,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 114129,
+                    "startOffset": 114133,
                     "endColumn": 53,
-                    "endOffset": 114178
+                    "endOffset": 114182
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5961,9 +5961,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 114183,
+                    "startOffset": 114187,
                     "endColumn": 63,
-                    "endOffset": 114242
+                    "endOffset": 114246
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5973,9 +5973,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 114247,
+                    "startOffset": 114251,
                     "endColumn": 105,
-                    "endOffset": 114348
+                    "endOffset": 114352
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5985,9 +5985,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114353,
+                    "startOffset": 114357,
                     "endColumn": 109,
-                    "endOffset": 114458
+                    "endOffset": 114462
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -5997,9 +5997,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 114463,
+                    "startOffset": 114467,
                     "endColumn": 83,
-                    "endOffset": 114542
+                    "endOffset": 114546
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
@@ -6009,9 +6009,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114547,
+                    "startOffset": 114551,
                     "endColumn": 119,
-                    "endOffset": 114662
+                    "endOffset": 114666
                 },
                 "from": {
                     "file": "C:\\Users\\oh\\Downloads\\HelloAccessory_Web\\Provider(Tizen)_Consumer(Android)\\Consumer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values\\values.xml"
