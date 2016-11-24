@@ -91,9 +91,6 @@ public class ConsumerActivity extends Activity {
     //private TextView mTextReceive;
     private ConsumerService mConsumerService = null;
 
-    // 수정
-    private int i = 0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
