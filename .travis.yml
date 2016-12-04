@@ -1,3 +1,24 @@
-language : android
-android :
-components :
+language: android
+android:
+  components:
+    # Update Android SDK Tools
+    - tools
+
+    - build-tools-23.0.1
+    - android-23
+
+    # Support library
+    - extra-android-support
+    - extra-android-m2repository
+  licenses:
+    - '.+'
+
+sudo: required
+
+jdk:
+  - oraclejdk8
+
+install: true
+
+script:
+    - chmod +x ./gradlew
