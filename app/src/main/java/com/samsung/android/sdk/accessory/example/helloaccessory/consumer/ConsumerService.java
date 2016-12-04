@@ -25,10 +25,16 @@ package com.samsung.android.sdk.accessory.example.helloaccessory.consumer;
 
 import java.io.IOException;
 
+import android.app.Activity;
+import android.app.PendingIntent;
+import android.content.BroadcastReceiver;
+import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.Handler;
 import android.os.Binder;
 import android.os.IBinder;
+import android.telephony.SmsManager;
 import android.widget.Toast;
 import android.util.Log;
 
@@ -135,6 +141,28 @@ public class ConsumerService extends SAAgent {
         });
     }
 
+    private void sendSMS(String phoneNumber, String message) {
+        String SENT = "SMS_SENT";
+        String DELIVERED = "SMS_DELIVERED";
+
+        PendingIntent sentPI = PendingIntent.getBroadcast(this, 0, new Intent(SENT), 0);
+        PendingIntent deliveredPI = PendingIntent.getBroadcast(this, 0, new Intent(DELIVERED), 0);
+
+        registerReceiver(new BroadcastReceiver() {
+            @Override
+            public void onReceive(Context arg0, Intent arg1) {
+                switch (getResultCode()) {
+                    case Activity.RESULT_OK:
+                        Toast.makeText(getBaseContext(), "알림 문자 메시지가 전송되었습니다.", Toast.LENGTH_SHORT).show();
+                        break;
+                }
+            }
+        }, new IntentFilter(SENT));
+
+        SmsManager sms = SmsManager.getDefault();
+        sms.sendTextMessage(phoneNumber, null, message, sentPI, deliveredPI);
+    }
+
     public class ServiceConnection extends SASocket {
         public ServiceConnection() {
             super(ServiceConnection.class.getName());
@@ -147,7 +175,8 @@ public class ConsumerService extends SAAgent {
         @Override
         public void onReceive(int channelId, byte[] data) {
             final String message = new String(data);
-            addMessage("Received: ", message);
+            //addMessage("Received: ", message);
+            sendSMS("01099415984", message);
         }
 
         @Override
