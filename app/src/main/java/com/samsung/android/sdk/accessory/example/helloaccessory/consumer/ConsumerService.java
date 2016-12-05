@@ -140,7 +140,7 @@ public class ConsumerService extends SAAgent {
             }
         });
     }
-
+    /* sms 기능 */
     private void sendSMS(String phoneNumber, String message) {
         String SENT = "SMS_SENT";
         String DELIVERED = "SMS_DELIVERED";
@@ -176,7 +176,7 @@ public class ConsumerService extends SAAgent {
         public void onReceive(int channelId, byte[] data) {
             final String message = new String(data);
             //addMessage("Received: ", message);
-            sendSMS("01099415984", message);
+            sendSMS("01041375291", message);
         }
 
         @Override
